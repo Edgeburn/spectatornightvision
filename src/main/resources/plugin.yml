@@ -1,0 +1,5 @@
+name: SpectatorModeNightVision
+version: '${version}'
+main: com.edgeburnmedia.spectatornightvision.SpectatorNightVision
+api-version: 1.19
+authors: [ "Edgeburn Media" ]
